@@ -1,0 +1,12 @@
+{
+  "name": "neon-drift-pixel-racer",
+  "version": "1.0.0",
+  "description": "CSC317 canvas pixel racer game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

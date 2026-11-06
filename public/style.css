@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #090b1c;
+    color: #35f2e2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.game-container {
+    width: 920px;
+    max-width: 95%;
+    margin: 25px auto;
+}
+
+h1 {
+    color: #ff3d81;
+    letter-spacing: 8px;
+    text-shadow: 3px 3px #35f2e2;
+}
+
+canvas {
+    width: 100%;
+    border: 5px solid #35f2e2;
+    background: #11152d;
+    image-rendering: pixelated;
+}
+
+p {
+    color: #ffe7a8;
+    font-size: 18px;
+}
